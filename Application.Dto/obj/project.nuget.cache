@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d66G93PhDSHJ6uz+yFCRlku8CW2ZKCtEhYD4tJjhdk/gWIc8BM23waAnIVUlm1+ZZE0fivDDWqwWQt04OkhP6w==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\TechAndSolve\\ApiTechAndSolve\\Application.Dto\\Application.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xpert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

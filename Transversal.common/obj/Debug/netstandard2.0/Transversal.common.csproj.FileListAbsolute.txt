@@ -1,0 +1,9 @@
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\bin\Debug\netstandard2.0\Transversal.common.deps.json
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\bin\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\bin\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.AssemblyInfoInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.AssemblyInfo.cs
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.csprojAssemblyReference.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Transversal.common\obj\Debug\netstandard2.0\Transversal.common.csproj.CoreCompileInputs.cache

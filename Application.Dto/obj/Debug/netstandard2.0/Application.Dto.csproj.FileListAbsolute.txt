@@ -1,0 +1,9 @@
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.deps.json
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\bin\Debug\netstandard2.0\Application.Dto.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.AssemblyInfoInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.AssemblyInfo.cs
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.csproj.CoreCompileInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Dto\obj\Debug\netstandard2.0\Application.Dto.csprojAssemblyReference.cache

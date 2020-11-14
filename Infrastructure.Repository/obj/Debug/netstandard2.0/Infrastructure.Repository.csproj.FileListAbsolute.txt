@@ -1,0 +1,16 @@
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Infrastructure.Repository.deps.json
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Infrastructure.Repository.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Infrastructure.Repository.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Domain.Entity.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Infrastructure.Interface.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Infrastructure.Interface.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\bin\Debug\netstandard2.0\Domain.Entity.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.csprojAssemblyReference.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.AssemblyInfoInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.AssemblyInfo.cs
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.csproj.CopyComplete
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Repository\obj\Debug\netstandard2.0\Infrastructure.Repository.csproj.CoreCompileInputs.cache

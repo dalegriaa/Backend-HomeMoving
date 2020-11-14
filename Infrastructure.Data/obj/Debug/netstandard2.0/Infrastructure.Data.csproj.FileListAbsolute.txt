@@ -1,0 +1,12 @@
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.deps.json
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\bin\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\bin\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csproj.CopyComplete
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csproj.CoreCompileInputs.cache

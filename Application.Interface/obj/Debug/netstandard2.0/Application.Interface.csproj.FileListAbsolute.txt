@@ -1,0 +1,14 @@
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Application.Interface.deps.json
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Application.Interface.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Application.Interface.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Application.Dto.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Transversal.common.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Application.Dto.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\bin\Debug\netstandard2.0\Transversal.common.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.csprojAssemblyReference.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.AssemblyInfoInputs.cache
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.AssemblyInfo.cs
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.csproj.CopyComplete
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.dll
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.pdb
+D:\Learning\TechAndSolve\ApiTechAndSolve\Application.Interface\obj\Debug\netstandard2.0\Application.Interface.csproj.CoreCompileInputs.cache
